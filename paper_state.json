@@ -5,8 +5,8 @@
     "ethereum": 0.06647608537022845
   },
   "last_prices": {
-    "bitcoin": 77218.0,
-    "ethereum": 2206.72
+    "bitcoin": 77447.0,
+    "ethereum": 2216.41
   },
   "trades": [
     {
@@ -980,9 +980,21 @@
       "coin": "ETH",
       "price_usd": 2206.72,
       "action": "HOLD"
+    },
+    {
+      "time": "2026-10-30T03:31:20.386294+00:00",
+      "coin": "BTC",
+      "price_usd": 77447.0,
+      "action": "HOLD"
+    },
+    {
+      "time": "2026-10-30T03:31:20.386294+00:00",
+      "coin": "ETH",
+      "price_usd": 2216.41,
+      "action": "HOLD"
     }
   ],
   "starting_value": 1000.0,
-  "last_run": "2026-10-30T02:51:44.585474+00:00",
-  "last_total_usd": 995.58
+  "last_run": "2026-10-30T03:31:20.386294+00:00",
+  "last_total_usd": 996.36
 }
