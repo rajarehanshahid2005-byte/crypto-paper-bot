@@ -5,22 +5,10 @@
     "ethereum": 0.4343716327725061
   },
   "last_prices": {
-    "bitcoin": 58582.0,
-    "ethereum": 1608.04
+    "bitcoin": 59029.0,
+    "ethereum": 1620.05
   },
   "trades": [
-    {
-      "time": "2026-11-11T05:24:04.580376+00:00",
-      "coin": "BTC",
-      "price_usd": 73785.0,
-      "action": "HOLD"
-    },
-    {
-      "time": "2026-11-11T05:24:04.580376+00:00",
-      "coin": "ETH",
-      "price_usd": 2065.22,
-      "action": "HOLD"
-    },
     {
       "time": "2026-11-11T06:21:03.834681+00:00",
       "coin": "BTC",
@@ -3008,9 +2996,21 @@
       "coin": "ETH",
       "price_usd": 1608.04,
       "action": "PAPER SELL $50.00"
+    },
+    {
+      "time": "2026-11-20T22:14:50.655854+00:00",
+      "coin": "BTC",
+      "price_usd": 59029.0,
+      "action": "HOLD"
+    },
+    {
+      "time": "2026-11-20T22:14:50.655854+00:00",
+      "coin": "ETH",
+      "price_usd": 1620.05,
+      "action": "HOLD"
     }
   ],
   "starting_value": 1000.0,
-  "last_run": "2026-11-20T21:27:52.386924+00:00",
-  "last_total_usd": 881.83
+  "last_run": "2026-11-20T22:14:50.655854+00:00",
+  "last_total_usd": 888.07
 }
